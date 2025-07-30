@@ -26,9 +26,6 @@ A estrutura do projeto foi planejada utilizando um Diagrama de Classes UML, que 
 
 <img width="731" height="780" alt="UML" src="https://github.com/user-attachments/assets/1db00a6f-bcca-4f0d-af33-2ae7888d2c17" />
 
-
-*Para uma visualização mais detalhada do diagrama, clique na imagem acima ou abra o arquivo `Diagrama sem nome.drawio (3).png`.*
-
 ## 💻 Tecnologias Utilizadas
 
 * **Java:** Linguagem de programação principal.
