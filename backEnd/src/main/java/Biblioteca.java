@@ -12,4 +12,17 @@ public class Biblioteca {
         this.autores = autores;
         this.emprestimos = emprestimos;
     }
+
+    public List<Livro> getLivros(){
+        return livros;
+    }
+    public List<Autor> getAutores(){
+        return autores;
+    }
+    public List<Emprestimo> getEmprestimos(){
+        return emprestimos;
+    }
+    public List<Cliente> getClientes(){
+        return clientes;
+    }
 }
